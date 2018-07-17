@@ -1,8 +1,14 @@
-.jumbotron {background-color:#90cae0;
+.jumbotron {background-color: hsl(157, 95%, 76%);
 }
 h1 {font-family: 'Merienda', cursive; 
     text-align: center;
 }
 h3 {font-family: 'Merienda', cursive;
     text-align: center;
+}
+.a {background-color: lime;
+}
+.b {background-color: lightpink;
+}
+.c {background-color: rgb(185, 173, 230);
 }
